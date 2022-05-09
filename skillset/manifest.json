@@ -1,0 +1,32 @@
+{
+  "party_mode.PartyMode": {
+    "display_name": "Party Mode",
+    "explanation": "Look for people to follow for 15 seconds each.",
+    "hint": "Follow for people at a party",
+    "short_name": "Party"
+  },
+  "polygon_path.PolygonPath": {
+    "display_name": "Polygon Path",
+    "explanation": "Fly in the shape of a polygon defined by adjustable settings:\n\nNumber of sides\nRadius\nDirection",
+    "hint": "Fly in the shape of a polygon",
+    "short_name": "Polygon"
+  },
+  "property_tour.PropertyTour": {
+    "display_name": "Property Tour",
+    "explanation": "Create a tour of your house, automatically",
+    "hint": "Tour your house.",
+    "short_name": "Tour"
+  },
+  "roof_inspection.RoofInspection": {
+    "display_name": "Roof Inspection",
+    "explanation": "Scan your roof",
+    "hint": "Scan your roof",
+    "short_name": "Inspection"
+  },
+  "security_bot.SecurityBot": {
+    "display_name": "Security Bot",
+    "explanation": "",
+    "hint": "Detect and follow people around a defined region",
+    "short_name": "SecurityBot"
+  }
+}
